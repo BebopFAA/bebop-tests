@@ -1,0 +1,23 @@
+{
+  "name": "bebop-tests",
+  "version": "1.0.0",
+  "description": "Automating Bebop Drone controls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BebopFAA/bebop-tests.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BebopFAA/bebop-tests/issues"
+  },
+  "homepage": "https://github.com/BebopFAA/bebop-tests#readme",
+  "dependencies": {
+    "cylon": "^1.2.0",
+    "cylon-bebop": "^0.4.0"
+  }
+}
