@@ -17,7 +17,13 @@
   },
   "homepage": "https://github.com/BebopFAA/bebop-tests#readme",
   "dependencies": {
+    "binaryjs": "^0.2.1",
     "cylon": "^1.2.0",
-    "cylon-bebop": "^0.4.0"
+    "cylon-bebop": "^0.4.0",
+    "cylon-keyboard": "^0.16.0",
+    "cylon-joystick": "*",
+    "fluent-ffmpeg": "^2.0.1",
+    "storotype": "^0.1.17",
+    "through": "^2.3.8"
   }
 }
